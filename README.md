@@ -2,7 +2,8 @@
 
 This project is a MERN stack application where users are able to search for book using the Google Books API as well as save their searches and return later to their previous searches. 
 
-![](../../../Desktop/Screen%20Shot%202022-09-26%20at%2011.31.58.png)
+![Screen Shot 2022-09-26 at 11 31 58](https://user-images.githubusercontent.com/104178580/192402942-59894a18-fd00-4dcf-823a-fa73342fe57e.png)
+
 
 Deployed application: https://quiet-peak-78115.herokuapp.com/
 
